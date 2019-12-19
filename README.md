@@ -123,6 +123,7 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
 
 + ## 재무 변환
 	+ 빠른 재무 마감, 수동 작업 감소 및 리소스 최적화
+  
     	+ 재무 결산
         + G/L 할당
         + 현금 운영 자동화
@@ -131,6 +132,7 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
 
 + ## 고객 서비스 자동화
 	+ 고객 만족도 및 처리량 향상
+
     	+ 고객 온 보딩
         + 반품 작업
         + 판매 견적, 주문처리 및 데이터 입력
@@ -140,6 +142,7 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
 
 + ## 운영 자동화
 	+ 수동 작업 자동화, 모니터링 및 가시성
+ 
     	+ 구매 주문 자동화
         + 공급 업체 분류 및 분할
         + 마스터 데이터 관리
@@ -147,6 +150,7 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
 
 + ## 자료 관리
 	+ 직원 및 고객을위한 빠른 온보딩, 일관된 마스터 데이터
+
     	+ 데이터 마이그레이션 및 입력
         + 신입 사원 온 보딩
         + 계약 데이터 유지 보수
@@ -173,14 +177,125 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
 
 
 
-1. 개발자는 Desktop Studio 를 사용하여 애플리케이션을 캡처하여 자동화 시나리오를 빌드
-2. 시나리오가 포함된 패키지를 Desktop Studio 에서 익스포트
-3. 관리자는 패키지를 Cloud Factory로 임포트하고 봇 유형 , 스케줄링 등을 구성
-4. Cloud Factory 는 사용 가능한 Desktop Agent 로 애플리케이션을 자동화하기 위한 시나리오를 푸시
+# 5. SAP Intelligent RPA 적용 과정
+
+
+1. 개발자는 `Desktop Studio` 를 사용하여 애플리케이션을 캡처하여 자동화 시나리오를 빌드
+
+2. 시나리오가 포함된 패키지를 `Desktop Studio` 에서 Export
+
+3. 관리자는 패키지를 Cloud Factory로 Import하고 `Bot` 유형 , 스케줄링 등을 구성
+
+4. Cloud Factory 는 사용 가능한 Desktop Agent 로 Application을 자동화하기 위한 시나리오를 Push
+
 5. 관리자는 시나리오의 성능을 모니터링
 
 
-# 5. SAP Intelligent RPA 적용 과정
+
+# 6. SAP iRPA Componet Setting
+
+
+1. Desktop Studio(iRPA Bot Dev Tool on-premise)
+   1. 설치 파일
+      + INT_RPA_AGENT00P_5-80004525.MSI
+      + jdk-8u221-windows-x64.exe
+
+        **시스템 -> 고급 시스템 설정**
+
+        ![image.png](./img/image008.png)
+
+        **환경변수**
+
+        ![image.png](./img/image009.png)
+
+        **시스템 변수 편집1**
+
+        ![image.png](./img/image010.png)
+
+        
+        **시스템 변수 편집2**
+
+        ![image.png](./img/image011.png)
+
+        **시스템 변수 편집3**
+
+        ![image.png](./img/image012.png)
+
+        **설치된 JDK 경로 : `C:\Program Files\Java\jdk1.8.0_221`**
+
+
+        **시스템 변수 편집4**
+
+        ![image.png](./img/image013.png)
+
+
+        **시스템 변수 Path 편집1**
+
+        ![image.png](./img/image014.png)
+
+
+        **시스템 변수 Path 편집2**
+
+        ![image.png](./img/image015.png)
+        **`%JAVA_HOME%\bin`** 입력후 저장
+
+
+        **JDK 버전 확인**
+
+        ![image.png](./img/image016.png)
+
+        **`java -version`**
+
+        **`javac -version`**
+
+        버전이 정상적으로 출력되는지 확인
+
+
+      + KDiff3-64bit-Setup_0.9.98-2.exe
+
+
+      + NDP472-KB4054531-Web.exe
+
+
+      + node-v10.15.3-x64.msi
+
+        ![image.png](./img/image017.png)
+
+        **`node -v`**
+
+
+      + vs_remotetools.exe
+
+
+    2. 해상도 설정
+
+        ![image.png](./img/image018.png)
+
+    3. KDiff3 설정
+
+        + Desktop Studio 프로그램 실행
+        ![image.png](./img/image019.png)
+
+        + File -> Settings
+        ![image.png](./img/image020.png)
+        ![image.png](./img/image021.png)
+        ![image.png](./img/image022.png)
+        ![image.png](./img/image023.png)
+
+        + File -> New Project
+        ![image.png](./img/image024.png)
+        ![image.png](./img/image025.png)
+
+        + File -> Edit Project
+        ![image.png](./img/image026.png)
+        ![image.png](./img/image027.png)
+
+2. IRPA Factory(iRPA Bot Management Tool cloud)
+
+
+
+3. Desktop Agent(iRPA Bot Runtime on-premise)
+
 
 
 
