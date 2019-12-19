@@ -201,131 +201,127 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
 
 1. Desktop Studio(iRPA Bot Dev Tool on-premise)
 
-    **1. 설치 파일**
+**1. 설치 파일**
 
-    + INT_RPA_AGENT00P_5-80004525.MSI
++ INT_RPA_AGENT00P_5-80004525.MSI
 
-    + jdk-8u221-windows-x64.exe
++ jdk-8u221-windows-x64.exe
 
-        1. **시스템 -> 고급 시스템 설정**
+  + **시스템 -> 고급 시스템 설정**
 
+    ![image.png](./img/image008.png)
 
-        ![image.png](./img/image008.png)
 
+  + **환경변수 설정**
 
-        2. **환경변수 설정**
 
+    ![image.png](./img/image009.png)
 
-        ![image.png](./img/image009.png)
 
+  + **시스템 변수 편집1**
 
-        3. **시스템 변수 편집1**
 
+    ![image.png](./img/image010.png)
 
-        ![image.png](./img/image010.png)
 
+  + **시스템 변수 편집2**
 
-        4. **시스템 변수 편집2**
 
+    ![image.png](./img/image011.png)
 
-        ![image.png](./img/image011.png)
 
+  + **시스템 변수 편집3**
 
-        5. **시스템 변수 편집3**
 
+    ![image.png](./img/image012.png)
 
-        ![image.png](./img/image012.png)
 
+    **설치된 JDK 경로 : `C:\Program Files\Java\jdk1.8.0_221`**
 
-        **설치된 JDK 경로 : `C:\Program Files\Java\jdk1.8.0_221`**
 
+  + **시스템 변수 편집4**
 
-        6. **시스템 변수 편집4**
 
+    ![image.png](./img/image013.png)
 
-        ![image.png](./img/image013.png)
 
+  + **시스템 변수 Path 편집1**
 
-        7. **시스템 변수 Path 편집1**
 
+    ![image.png](./img/image014.png)
 
-        ![image.png](./img/image014.png)
 
+  + **시스템 변수 Path 편집2**
 
-        8. **시스템 변수 Path 편집2**
 
+    ![image.png](./img/image015.png)
+    **`%JAVA_HOME%\bin`** 입력후 저장
 
-        ![image.png](./img/image015.png)
 
+  + **JDK 버전 확인**
 
-        **`%JAVA_HOME%\bin`** 입력후 저장
 
+    ![image.png](./img/image016.png)
 
-        9. **JDK 버전 확인**
+    **`java -version`**
 
+    **`javac -version`**
 
-        ![image.png](./img/image016.png)
+    버전이 정상적으로 출력되는지 확인
 
 
-        **`java -version`**
++ KDiff3-64bit-Setup_0.9.98-2.exe
 
-        **`javac -version`**
 
-        버전이 정상적으로 출력되는지 확인
++ NDP472-KB4054531-Web.exe
 
 
-      + KDiff3-64bit-Setup_0.9.98-2.exe
++ node-v10.15.3-x64.msi
 
+    ![image.png](./img/image017.png)
 
-      + NDP472-KB4054531-Web.exe
+**`node -v`**
 
 
-      + node-v10.15.3-x64.msi
++ vs_remotetools.exe
 
-        ![image.png](./img/image017.png)
+**2. 해상도 설정**
 
-        **`node -v`**
+    ![image.png](./img/image018.png)
 
+**3. KDiff3 설정**
 
-      + vs_remotetools.exe
-      
-    **2. 해상도 설정**
+  + Desktop Studio 프로그램 실행
 
-      ![image.png](./img/image018.png)
+    ![image.png](./img/image019.png)
 
-    **3. KDiff3 설정**
+  + File -> Settings
 
-      + Desktop Studio 프로그램 실행
+    ![image.png](./img/image020.png)
+    ![image.png](./img/image021.png)
+    ![image.png](./img/image022.png)
+    ![image.png](./img/image023.png)
 
-      ![image.png](./img/image019.png)
+  + File -> New Project
 
-      + File -> Settings
+    ![image.png](./img/image024.png)
+    ![image.png](./img/image025.png)
 
-      ![image.png](./img/image020.png)
-      ![image.png](./img/image021.png)
-      ![image.png](./img/image022.png)
-      ![image.png](./img/image023.png)
+  + File -> Edit Project
 
-      + File -> New Project
-      
-      ![image.png](./img/image024.png)
-      ![image.png](./img/image025.png)
+    ![image.png](./img/image026.png)
+    ![image.png](./img/image027.png)
 
-      + File -> Edit Project
-      
-      ![image.png](./img/image026.png)
-      ![image.png](./img/image027.png)
 
 
 
+1. IRPA Factory(iRPA Bot Management Tool cloud)
 
-2. IRPA Factory(iRPA Bot Management Tool cloud)
 
 
 
 
-
-3. Desktop Agent(iRPA Bot Runtime on-premise)
+2. Desktop Agent(iRPA Bot Runtime on-premise)
 
 
 
