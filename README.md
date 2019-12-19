@@ -2,8 +2,8 @@
 
 iRPA_Hands_On
 
-iRPA Project Name : Test2.zip
 
+![image.png](./img/image001.png)
 
 [SAP Best Practices for SAP Intelligent Robotic Process Automation integration with SAP S/4HANA ](https://rapid.sap.com/bp/#/browse/categories/sap_s%254hana/areas/automation/packageversions/IRPA_S4HANA)
 
