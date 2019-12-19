@@ -238,6 +238,7 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
         + **시스템 변수 Path 편집2**
         
         ![image.png](./img/image015.png)
+        
         **`%JAVA_HOME%\bin`** 입력후 저장
 
         + **JDK 버전 확인**
@@ -285,12 +286,17 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
         ![image.png](./img/image023.png)
 
         + File -> New Project
+        
         ![image.png](./img/image024.png)
         ![image.png](./img/image025.png)
 
         + File -> Edit Project
+        
         ![image.png](./img/image026.png)
         ![image.png](./img/image027.png)
+
+
+
 
 2. IRPA Factory(iRPA Bot Management Tool cloud)
 
