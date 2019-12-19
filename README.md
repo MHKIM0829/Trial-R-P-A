@@ -218,6 +218,7 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
             ![image.png](./img/image013.png)
             ![image.png](./img/image014.png)
             ![image.png](./img/image015.png)
+
             **`%JAVA_HOME%\bin`** 입력후 저장
 
             ![image.png](./img/image016.png)
@@ -226,14 +227,12 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
 
             **`javac -version`**
 
-            버전이 정상적으로 출력되는지 확인
+           + 버전이 정상적으로 출력되는지 확인<br>
 
 
         + KDiff3-64bit-Setup_0.9.98-2.exe
 
-
         + NDP472-KB4054531-Web.exe
-
 
         + node-v10.15.3-x64.msi
 
@@ -244,11 +243,11 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
 
         + vs_remotetools.exe
 
-    2. 해상도 설정
+   1. 해상도 설정
 
         ![image.png](./img/image018.png)
 
-    1. KDiff3 설정
+   2. KDiff3 설정
 
       + Desktop Studio 프로그램 실행
 
