@@ -200,37 +200,38 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
 
 
 1. Desktop Studio(iRPA Bot Dev Tool on-premise)
+
     **1. 설치 파일**
 
     + INT_RPA_AGENT00P_5-80004525.MSI
 
     + jdk-8u221-windows-x64.exe
 
-        + **시스템 -> 고급 시스템 설정**
+        1. **시스템 -> 고급 시스템 설정**
 
 
         ![image.png](./img/image008.png)
 
 
-        + **환경변수 설정**
+        2. **환경변수 설정**
 
 
         ![image.png](./img/image009.png)
 
 
-        + **시스템 변수 편집1**
+        3. **시스템 변수 편집1**
 
 
         ![image.png](./img/image010.png)
 
 
-        + **시스템 변수 편집2**
+        4. **시스템 변수 편집2**
 
 
         ![image.png](./img/image011.png)
 
 
-        + **시스템 변수 편집3**
+        5. **시스템 변수 편집3**
 
 
         ![image.png](./img/image012.png)
@@ -239,19 +240,19 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
         **설치된 JDK 경로 : `C:\Program Files\Java\jdk1.8.0_221`**
 
 
-        + **시스템 변수 편집4**
+        6. **시스템 변수 편집4**
 
 
         ![image.png](./img/image013.png)
 
 
-        + **시스템 변수 Path 편집1**
+        7. **시스템 변수 Path 편집1**
 
 
         ![image.png](./img/image014.png)
 
 
-        + **시스템 변수 Path 편집2**
+        8. **시스템 변수 Path 편집2**
 
 
         ![image.png](./img/image015.png)
@@ -260,7 +261,7 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
         **`%JAVA_HOME%\bin`** 입력후 저장
 
 
-        + **JDK 버전 확인**
+        9. **JDK 버전 확인**
 
 
         ![image.png](./img/image016.png)
@@ -318,13 +319,13 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
 
 
 
-1. IRPA Factory(iRPA Bot Management Tool cloud)
+2. IRPA Factory(iRPA Bot Management Tool cloud)
 
 
 
 
 
-2. Desktop Agent(iRPA Bot Runtime on-premise)
+3. Desktop Agent(iRPA Bot Runtime on-premise)
 
 
 
