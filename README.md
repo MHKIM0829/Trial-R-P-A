@@ -200,9 +200,11 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
 
 
 1. Desktop Studio(iRPA Bot Dev Tool on-premise)
-   1. 설치 파일
-      + INT_RPA_AGENT00P_5-80004525.MSI
-      + jdk-8u221-windows-x64.exe
+    **1. 설치 파일**
+
+    + INT_RPA_AGENT00P_5-80004525.MSI
+
+    + jdk-8u221-windows-x64.exe
 
         + **시스템 -> 고급 시스템 설정**
 
@@ -285,45 +287,44 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
 
 
       + vs_remotetools.exe
+      
+    **2. 해상도 설정**
 
+      ![image.png](./img/image018.png)
 
-   2. 해상도 설정
+    **3. KDiff3 설정**
 
-        ![image.png](./img/image018.png)
+      + Desktop Studio 프로그램 실행
 
-   3. KDiff3 설정
+      ![image.png](./img/image019.png)
 
-        + Desktop Studio 프로그램 실행
+      + File -> Settings
 
-        ![image.png](./img/image019.png)
+      ![image.png](./img/image020.png)
+      ![image.png](./img/image021.png)
+      ![image.png](./img/image022.png)
+      ![image.png](./img/image023.png)
 
-        + File -> Settings
+      + File -> New Project
+      
+      ![image.png](./img/image024.png)
+      ![image.png](./img/image025.png)
 
-        ![image.png](./img/image020.png)
-        ![image.png](./img/image021.png)
-        ![image.png](./img/image022.png)
-        ![image.png](./img/image023.png)
-
-        + File -> New Project
-        
-        ![image.png](./img/image024.png)
-        ![image.png](./img/image025.png)
-
-        + File -> Edit Project
-        
-        ![image.png](./img/image026.png)
-        ![image.png](./img/image027.png)
-
-
-
-
-2. IRPA Factory(iRPA Bot Management Tool cloud)
+      + File -> Edit Project
+      
+      ![image.png](./img/image026.png)
+      ![image.png](./img/image027.png)
 
 
 
 
+1. IRPA Factory(iRPA Bot Management Tool cloud)
 
-3. Desktop Agent(iRPA Bot Runtime on-premise)
+
+
+
+
+2. Desktop Agent(iRPA Bot Runtime on-premise)
 
 
 
