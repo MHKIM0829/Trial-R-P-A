@@ -217,32 +217,32 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
         ![image.png](./img/image010.png)
 
         + **시스템 변수 편집2**
-        
+
         ![image.png](./img/image011.png)
 
         + **시스템 변수 편집3**
-        
+
         ![image.png](./img/image012.png)
 
         **설치된 JDK 경로 : `C:\Program Files\Java\jdk1.8.0_221`**
 
         + **시스템 변수 편집4**
-        
+
         ![image.png](./img/image013.png)
 
         + **시스템 변수 Path 편집1**
-        
+
         ![image.png](./img/image014.png)
 
 
         + **시스템 변수 Path 편집2**
-        
+
         ![image.png](./img/image015.png)
-        
+
         **`%JAVA_HOME%\bin`** 입력후 저장
 
         + **JDK 버전 확인**
-        
+
         ![image.png](./img/image016.png)
 
         **`java -version`**
