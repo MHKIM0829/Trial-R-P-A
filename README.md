@@ -201,11 +201,20 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
 
 1. Desktop Studio(iRPA Bot Dev Tool on-premise)
 
-    1. 설치파일
+   1. 설치파일
 
         + INT_RPA_AGENT00P_5-80004525.MSI
 
         + jdk-8u221-windows-x64.exe
+
+        + KDiff3-64bit-Setup_0.9.98.exe
+
+        + NDP472-KB4054531Web.exe
+
+        + node-v10.15.3x64.msi
+
+        + vs_remotetools.exe
+
 
             ![image.png](./img/image008.png)
             ![image.png](./img/image009.png)
@@ -227,27 +236,17 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
 
             **`javac -version`**
 
-           + 버전이 정상적으로 출력되는지 확인<br>
-
-
-        + KDiff3-64bit-Setup_0.9.98-2.exe
-
-        + NDP472-KB4054531-Web.exe
-
-        + node-v10.15.3-x64.msi
+           + 버전이 정상적으로 출력되는지 확인
 
             ![image.png](./img/image017.png)
 
             **`node -v`**
 
-
-        + vs_remotetools.exe
-
-   1. 해상도 설정
+   2. 해상도 설정
 
         ![image.png](./img/image018.png)
 
-   2. KDiff3 설정
+   3. KDiff3 설정
 
       + Desktop Studio 프로그램 실행
 
@@ -273,13 +272,13 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
 
 
 
-1. IRPA Factory(iRPA Bot Management Tool cloud)
+2. IRPA Factory(iRPA Bot Management Tool cloud)
 
 
 
 
 
-2. Desktop Agent(iRPA Bot Runtime on-premise)
+3. Desktop Agent(iRPA Bot Runtime on-premise)
 
 
 
