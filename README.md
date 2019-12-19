@@ -201,116 +201,75 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
 
 1. Desktop Studio(iRPA Bot Dev Tool on-premise)
 
-**1. 설치 파일**
+    1. 설치파일
 
-+ INT_RPA_AGENT00P_5-80004525.MSI
+        + INT_RPA_AGENT00P_5-80004525.MSI
 
-+ jdk-8u221-windows-x64.exe
+        + jdk-8u221-windows-x64.exe
 
-  + **시스템 -> 고급 시스템 설정**
+            ![image.png](./img/image008.png)
+            ![image.png](./img/image009.png)
+            ![image.png](./img/image010.png)
+            ![image.png](./img/image011.png)
+            ![image.png](./img/image012.png)
 
-    ![image.png](./img/image008.png)
+            **설치된 JDK 경로 : `C:\Program Files\Java\jdk1.8.0_221`**
 
+            ![image.png](./img/image013.png)
+            ![image.png](./img/image014.png)
+            ![image.png](./img/image015.png)
+            **`%JAVA_HOME%\bin`** 입력후 저장
 
-  + **환경변수 설정**
+            ![image.png](./img/image016.png)
 
+            **`java -version`**
 
-    ![image.png](./img/image009.png)
+            **`javac -version`**
 
-
-  + **시스템 변수 편집1**
-
-
-    ![image.png](./img/image010.png)
-
-
-  + **시스템 변수 편집2**
-
-
-    ![image.png](./img/image011.png)
-
-
-  + **시스템 변수 편집3**
+            버전이 정상적으로 출력되는지 확인
 
 
-    ![image.png](./img/image012.png)
+        + KDiff3-64bit-Setup_0.9.98-2.exe
 
 
-    **설치된 JDK 경로 : `C:\Program Files\Java\jdk1.8.0_221`**
+        + NDP472-KB4054531-Web.exe
 
 
-  + **시스템 변수 편집4**
+        + node-v10.15.3-x64.msi
+
+            ![image.png](./img/image017.png)
+
+            **`node -v`**
 
 
-    ![image.png](./img/image013.png)
+        + vs_remotetools.exe
 
+    2. 해상도 설정
 
-  + **시스템 변수 Path 편집1**
+        ![image.png](./img/image018.png)
 
+    1. KDiff3 설정
 
-    ![image.png](./img/image014.png)
+      + Desktop Studio 프로그램 실행
 
+        ![image.png](./img/image019.png)
 
-  + **시스템 변수 Path 편집2**
+      + File -> Settings
 
+        ![image.png](./img/image020.png)
+        ![image.png](./img/image021.png)
+        ![image.png](./img/image022.png)
+        ![image.png](./img/image023.png)
 
-    ![image.png](./img/image015.png)
-    **`%JAVA_HOME%\bin`** 입력후 저장
+      + File -> New Project
 
+        ![image.png](./img/image024.png)
+        ![image.png](./img/image025.png)
 
-  + **JDK 버전 확인**
+      + File -> Edit Project
 
-
-    ![image.png](./img/image016.png)
-
-    **`java -version`**
-
-    **`javac -version`**
-
-    버전이 정상적으로 출력되는지 확인
-
-
-+ KDiff3-64bit-Setup_0.9.98-2.exe
-
-
-+ NDP472-KB4054531-Web.exe
-
-
-+ node-v10.15.3-x64.msi
-
-    ![image.png](./img/image017.png)
-
-**`node -v`**
-
-
-+ vs_remotetools.exe
-
-**2. 해상도 설정**
-
-    ![image.png](./img/image018.png)
-
-**3. KDiff3 설정**
-
-  + Desktop Studio 프로그램 실행
-
-    ![image.png](./img/image019.png)
-
-  + File -> Settings
-
-    ![image.png](./img/image020.png)
-    ![image.png](./img/image021.png)
-    ![image.png](./img/image022.png)
-    ![image.png](./img/image023.png)
-
-  + File -> New Project
-
-    ![image.png](./img/image024.png)
-    ![image.png](./img/image025.png)
-
-  + File -> Edit Project
-
-    ![image.png](./img/image026.png)
-    ![image.png](./img/image027.png)
+        ![image.png](./img/image026.png)
+        ![image.png](./img/image027.png)
 
 
 
