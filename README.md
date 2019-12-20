@@ -280,6 +280,74 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
     <img src="./img/image027.png" width="100%" height="100%">
 
 
+    <img src="./img/image028.png" width="100%" height="100%">
+    <img src="./img/image029.png" width="100%" height="100%">
+    <img src="./img/image030.png" width="100%" height="100%">
+    <img src="./img/image031.png" width="100%" height="100%">
+    <img src="./img/image032.png" width="100%" height="100%">
+    <img src="./img/image033.png" width="100%" height="100%">
+    <img src="./img/image034.png" width="100%" height="100%">
+    <img src="./img/image035.png" width="100%" height="100%">
+    <img src="./img/image036.png" width="100%" height="100%">
+    <img src="./img/image037.png" width="100%" height="100%">
+    <img src="./img/image038.png" width="100%" height="100%">
+    <img src="./img/image039.png" width="100%" height="100%">
+    <img src="./img/image040.png" width="100%" height="100%">
+
+    <img src="./img/image041.png" width="100%" height="100%">
+    <img src="./img/image042.png" width="100%" height="100%">
+    <img src="./img/image043.png" width="100%" height="100%">
+    <img src="./img/image044.png" width="100%" height="100%">
+    <img src="./img/image045.png" width="100%" height="100%">
+    <img src="./img/image046.png" width="100%" height="100%">
+    <img src="./img/image047.png" width="100%" height="100%">
+    <img src="./img/image048.png" width="100%" height="100%">
+    <img src="./img/image049.png" width="100%" height="100%">
+    <img src="./img/image050.png" width="100%" height="100%">
+
+    <img src="./img/image051.png" width="100%" height="100%">
+    <img src="./img/image052.png" width="100%" height="100%">
+    <img src="./img/image053.png" width="100%" height="100%">
+    <img src="./img/image054.png" width="100%" height="100%">
+    <img src="./img/image055.png" width="100%" height="100%">
+    <img src="./img/image056.png" width="100%" height="100%">
+    <img src="./img/image057.png" width="100%" height="100%">
+    <img src="./img/image058.png" width="100%" height="100%">
+    <img src="./img/image059.png" width="100%" height="100%">
+    <img src="./img/image060.png" width="100%" height="100%">
+
+    <img src="./img/image061.png" width="100%" height="100%">
+    <img src="./img/image062.png" width="100%" height="100%">
+    <img src="./img/image063.png" width="100%" height="100%">
+    <img src="./img/image064.png" width="100%" height="100%">
+    <img src="./img/image065.png" width="100%" height="100%">
+    <img src="./img/image066.png" width="100%" height="100%">
+    <img src="./img/image067.png" width="100%" height="100%">
+    <img src="./img/image068.png" width="100%" height="100%">
+    <img src="./img/image069.png" width="100%" height="100%">
+    <img src="./img/image070.png" width="100%" height="100%">
+
+    <img src="./img/image071.png" width="100%" height="100%">
+    <img src="./img/image072.png" width="100%" height="100%">
+    <img src="./img/image073.png" width="100%" height="100%">
+    <img src="./img/image074.png" width="100%" height="100%">
+    <img src="./img/image075.png" width="100%" height="100%">
+    <img src="./img/image076.png" width="100%" height="100%">
+    <img src="./img/image077.png" width="100%" height="100%">
+    <img src="./img/image078.png" width="100%" height="100%">
+    <img src="./img/image079.png" width="100%" height="100%">
+    <img src="./img/image080.png" width="100%" height="100%">
+
+    <img src="./img/image081.png" width="100%" height="100%">
+    <img src="./img/image082.png" width="100%" height="100%">
+    <img src="./img/image083.png" width="100%" height="100%">
+    <img src="./img/image084.png" width="100%" height="100%">
+    <img src="./img/image085.png" width="100%" height="100%">
+    <img src="./img/image086.png" width="100%" height="100%">
+    <img src="./img/image087.png" width="100%" height="100%">
+    <img src="./img/image088.png" width="100%" height="100%">
+    <img src="./img/image089.png" width="100%" height="100%">
+    <img src="./img/image090.png" width="100%" height="100%">
 
 
 1. IRPA Factory(iRPA Bot Management Tool cloud)
@@ -289,8 +357,6 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
 
 
 2. Desktop Agent(iRPA Bot Runtime on-premise)
-
-
 
 
 
