@@ -201,7 +201,7 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
 
 1. Desktop Studio(iRPA Bot Dev Tool on-premise)
 
-   1. 설치파일
+   +  설치파일
 
         + INT_RPA_AGENT00P_5-80004525.MSI
 
@@ -216,69 +216,73 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
         + vs_remotetools.exe
 
 
-            ![image.png](./img/image008.png)
-            ![image.png](./img/image009.png)
-            ![image.png](./img/image010.png)
-            ![image.png](./img/image011.png)
-            ![image.png](./img/image012.png)
 
-            **설치된 JDK 경로 : `C:\Program Files\Java\jdk1.8.0_221`**
+<img src="./img/image008.png" width="100%" height="100%">
+<img src="./img/image009.png" width="100%" height="100%">
+<img src="./img/image010.png" width="100%" height="100%">
+<img src="./img/image011.png" width="100%" height="100%">
+<img src="./img/image012.png" width="100%" height="100%">
 
-            ![image.png](./img/image013.png)
-            ![image.png](./img/image014.png)
-            ![image.png](./img/image015.png)
+**설치된 JDK 경로 : `C:\Program Files\Java\jdk1.8.0_221`**
 
-            **`%JAVA_HOME%\bin`** 입력후 저장
+  <img src="./img/image013.png" width="100%" height="100%">
+  <img src="./img/image014.png" width="100%" height="100%">
+  <img src="./img/image015.png" width="100%" height="100%">
 
-            ![image.png](./img/image016.png)
+**`%JAVA_HOME%\bin`** 입력후 저장
 
-            **`java -version`**
+  <img src="./img/image016.png" width="100%" height="100%">
 
-            **`javac -version`**
+**`java -version`**
 
-           + 버전이 정상적으로 출력되는지 확인
+**`javac -version`**
 
-            ![image.png](./img/image017.png)
+  <img src="./img/image017.png" width="100%" height="100%">
 
-            **`node -v`**
+**`node -v`**
 
-   2. 해상도 설정
+   + 해상도 설정
 
-        ![image.png](./img/image018.png)
+  <img src="./img/image018.png" width="100%" height="100%">
 
-   3. KDiff3 설정
+   + KDiff3 설정
 
-      + Desktop Studio 프로그램 실행
++ Desktop Studio 프로그램 실행
 
-        ![image.png](./img/image019.png)
+  ![image.png](./img/image019.png)
 
-      + File -> Settings
++ File -> Settings
 
-        ![image.png](./img/image020.png)
-        ![image.png](./img/image021.png)
-        ![image.png](./img/image022.png)
-        ![image.png](./img/image023.png)
+  ![image.png](./img/image020.png)
 
-      + File -> New Project
+  ![image.png](./img/image021.png)
 
-        ![image.png](./img/image024.png)
-        ![image.png](./img/image025.png)
+  ![image.png](./img/image022.png)
 
-      + File -> Edit Project
+  ![image.png](./img/image023.png)
 
-        ![image.png](./img/image026.png)
-        ![image.png](./img/image027.png)
++ File -> New Project
 
+  ![image.png](./img/image024.png)
 
+  ![image.png](./img/image025.png)
 
++ File -> Edit Project
 
-2. IRPA Factory(iRPA Bot Management Tool cloud)
+  ![image.png](./img/image026.png)
 
+  ![image.png](./img/image027.png)
 
 
 
 
-3. Desktop Agent(iRPA Bot Runtime on-premise)
+1. IRPA Factory(iRPA Bot Management Tool cloud)
+
+
+
+
+
+2. Desktop Agent(iRPA Bot Runtime on-premise)
 
 
 
