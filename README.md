@@ -253,11 +253,11 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
 
 + # KDiff3 설정
 
-+ Desktop Studio 프로그램 실행
++ ## Desktop Studio 프로그램 실행
 
     <img src="./img/image019.png" width="100%" height="100%">
 
-+ File -> Settings
++ ### `[File]` -> `[Settings]`
 
     <img src="./img/image020.png" width="100%" height="100%">
 
@@ -267,13 +267,13 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
 
     <img src="./img/image023.png" width="100%" height="100%">
 
-+ File -> New Project
++ ### `[File]` -> `[New Project]`
 
     <img src="./img/image024.png" width="100%" height="100%">
 
     <img src="./img/image025.png" width="100%" height="100%">
 
-+ File -> Edit Project
++ ### `[File]` -> `[Edit Project]`
 
     <img src="./img/image026.png" width="100%" height="100%">
 
