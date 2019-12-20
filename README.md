@@ -218,26 +218,32 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
 
 
 <img src="./img/image008.png" width="100%" height="100%">
+
 <img src="./img/image009.png" width="100%" height="100%">
+
 <img src="./img/image010.png" width="100%" height="100%">
+
 <img src="./img/image011.png" width="100%" height="100%">
+
 <img src="./img/image012.png" width="100%" height="100%">
 
 **설치된 JDK 경로 : `C:\Program Files\Java\jdk1.8.0_221`**
 
-  <img src="./img/image013.png" width="100%" height="100%">
-  <img src="./img/image014.png" width="100%" height="100%">
-  <img src="./img/image015.png" width="100%" height="100%">
+<img src="./img/image013.png" width="100%" height="100%">
+
+<img src="./img/image014.png" width="100%" height="100%">
+
+<img src="./img/image015.png" width="100%" height="100%">
 
 **`%JAVA_HOME%\bin`** 입력후 저장
 
-  <img src="./img/image016.png" width="100%" height="100%">
+<img src="./img/image016.png" width="100%" height="100%">
 
 **`java -version`**
 
 **`javac -version`**
 
-  <img src="./img/image017.png" width="100%" height="100%">
+<img src="./img/image017.png" width="100%" height="100%">
 
 **`node -v`**
 
@@ -249,29 +255,30 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
 
 + Desktop Studio 프로그램 실행
 
-  ![image.png](./img/image019.png)
+  <img src="./img/image019.png" width="100%" height="100%">
 
 + File -> Settings
 
-  ![image.png](./img/image020.png)
+  <img src="./img/image020.png" width="100%" height="100%">
 
-  ![image.png](./img/image021.png)
+  <img src="./img/image021.png" width="100%" height="100%">
 
-  ![image.png](./img/image022.png)
+  <img src="./img/image022.png" width="100%" height="100%">
 
-  ![image.png](./img/image023.png)
+  <img src="./img/image023.png" width="100%" height="100%">
 
 + File -> New Project
 
-  ![image.png](./img/image024.png)
-
-  ![image.png](./img/image025.png)
+  <img src="./img/image024.png" width="100%" height="100%">
+  
+  <img src="./img/image025.png" width="100%" height="100%">
 
 + File -> Edit Project
 
-  ![image.png](./img/image026.png)
 
-  ![image.png](./img/image027.png)
+  <img src="./img/image026.png" width="100%" height="100%">
+
+  <img src="./img/image027.png" width="100%" height="100%">
 
 
 
