@@ -26,7 +26,7 @@
     ![images](./img/image010.png)
 
     ![images](./img/image011.png)
-    
+
     ![images](./img/image012.png)
 
     **설치된 JDK 경로 : `C:\Program Files\Java\jdk1.8.0_221`**
@@ -67,7 +67,7 @@
 
     ![images](./img/image023.png)
 
-+ # Library Integration 활성 방법 (ex. MS Office Excel/Word)
++ # Library Integration 활성 방법 (ex. MS Office Excel/Word/PowerPoint)
 
     ![images](./img/image024.png)
 
