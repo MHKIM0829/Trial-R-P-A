@@ -256,33 +256,19 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
 + ## Desktop Studio 프로그램 실행
 
     <img src="./img/image019.png" width="100%" height="100%">
-
-+ ### `[File]` -> `[Settings]`
-
     <img src="./img/image020.png" width="100%" height="100%">
-
+    
     <img src="./img/image021.png" width="100%" height="100%">
-
     <img src="./img/image022.png" width="100%" height="100%">
-
     <img src="./img/image023.png" width="100%" height="100%">
-
-+ ### `[File]` -> `[New Project]`
-
     <img src="./img/image024.png" width="100%" height="100%">
-
     <img src="./img/image025.png" width="100%" height="100%">
-
-+ ### `[File]` -> `[Edit Project]`
-
     <img src="./img/image026.png" width="100%" height="100%">
-
     <img src="./img/image027.png" width="100%" height="100%">
-
-
     <img src="./img/image028.png" width="100%" height="100%">
     <img src="./img/image029.png" width="100%" height="100%">
     <img src="./img/image030.png" width="100%" height="100%">
+
     <img src="./img/image031.png" width="100%" height="100%">
     <img src="./img/image032.png" width="100%" height="100%">
     <img src="./img/image033.png" width="100%" height="100%">
@@ -351,10 +337,6 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
 
 
 1. IRPA Factory(iRPA Bot Management Tool cloud)
-
-
-
-
 
 2. Desktop Agent(iRPA Bot Runtime on-premise)
 
