@@ -20,15 +20,21 @@
 + # 설치방법
 
     ![images](./img/image008.png)
+
     ![images](./img/image009.png)
+
     ![images](./img/image010.png)
+
     ![images](./img/image011.png)
+    
     ![images](./img/image012.png)
 
     **설치된 JDK 경로 : `C:\Program Files\Java\jdk1.8.0_221`**
 
     ![images](./img/image013.png)
+
     ![images](./img/image014.png)
+
     ![images](./img/image015.png)
 
     **`%JAVA_HOME%\bin`** 입력후 저장
@@ -52,14 +58,21 @@
 + ## Desktop Studio 프로그램 실행
 
     ![images](./img/image019.png)
+
     ![images](./img/image020.png)
+
     ![images](./img/image021.png)
+
     ![images](./img/image022.png)
+
     ![images](./img/image023.png)
 
 + # Library Integration 활성 방법 (ex. MS Office Excel/Word)
 
     ![images](./img/image024.png)
+
     ![images](./img/image025.png)
+
     ![images](./img/image026.png)
+
     ![images](./img/image027.png)
