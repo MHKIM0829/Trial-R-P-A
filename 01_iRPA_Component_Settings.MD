@@ -1,0 +1,65 @@
+# 1. SAP iRPA Componet Setting
+
+
+## 1. Desktop Studio(iRPA Bot Dev Tool on-premise)
+
++ # 설치파일
+
+        + INT_RPA_AGENT00P_5-80004525.MSI
+
+        + jdk-8u221-windows-x64.exe
+
+        + KDiff3-64bit-Setup_0.9.98.exe
+
+        + NDP472-KB4054531Web.exe
+
+        + node-v10.15.3x64.msi
+
+        + vs_remotetools.exe
+
++ # 설치방법
+
+    ![images](./img/image008.png)
+    ![images](./img/image009.png)
+    ![images](./img/image010.png)
+    ![images](./img/image011.png)
+    ![images](./img/image012.png)
+
+    **설치된 JDK 경로 : `C:\Program Files\Java\jdk1.8.0_221`**
+
+    ![images](./img/image013.png)
+    ![images](./img/image014.png)
+    ![images](./img/image015.png)
+
+    **`%JAVA_HOME%\bin`** 입력후 저장
+
+    ![images](./img/image016.png)
+
+    **`java -version`**
+
+    **`javac -version`**
+
+    ![images](./img/image017.png)
+
+    **`node -v`**
+
++ # 해상도 설정
+
+    -![images](./img/image018.png)
+
++ # KDiff3 설정(코드 Merge 툴)
+
++ ## Desktop Studio 프로그램 실행
+
+    ![images](./img/image019.png)
+    ![images](./img/image020.png)
+    ![images](./img/image021.png)
+    ![images](./img/image022.png)
+    ![images](./img/image023.png)
+
++ # Library Integration 활성 방법 (ex. MS Office Excel/Word)
+
+    ![images](./img/image024.png)
+    ![images](./img/image025.png)
+    ![images](./img/image026.png)
+    ![images](./img/image027.png)
