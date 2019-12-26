@@ -16,3 +16,15 @@
 ![images](./img/image046.png)
 
 ![images](./img/image047.png)
+
+
+## Tip. 다른 iRPA Factory을 사용해야하는 경우
+
+**경로 : `C:\ProgramData\SAP\Intelligent RPA\tenants`**
+
+![images](./img/image091.png)
+
+
+## Tip. 다른 iRPA Factory을 사용해야하는 경우
+
+![images](./img/image092.png)

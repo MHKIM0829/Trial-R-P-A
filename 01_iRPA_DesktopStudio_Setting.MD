@@ -1,4 +1,4 @@
-# 1. SAP iRPA Componet Setting
+# 1. iRPA 개발 툴 (Desktop Studio) 설치 및 설정
 
 
 ## 1. Desktop Studio(iRPA Bot Dev Tool on-premise)

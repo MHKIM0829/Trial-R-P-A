@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+	<Identification>
+		<Version Value="1.0.4.67"/>
+	</Identification>
+	<Properties>
+		<Property Name="projectFile" Value="ISTNTEST04.debug.psc"/>
+		<Property Name="projectVersion" Value="1.0"/>
+		<Property Name="projectName" Value="ISTNTEST04"/>
+		<Property Name="projectId" Value="587484a4-7e69-4dd4-a74d-89302c63d307"/>
+		<Property Name="projectDate" Value="24/12/2019"/>
+		<Property Name="projectLabel" Value="ISTNTEST04"/>
+		<Property Name="projectClient" Value="ISTNTEST04"/>
+		<Property Name="licenceURL" Value=""/>
+		<Property Name="archiveFile" Value="ISTNTEST04.zip"/>
+		<Property Name="productVersion" Value="1.0.4.67"/>
+		<Property Name="sdkVersion" Value="1.0.4.67"/>
+		<Property Name="validity" Value=""/>
+		<Property Name="cyphering" Value="0"/>
+		<Property Name="compression" Value="1"/>
+	</Properties>
+	<Properties Name="scenario0">
+		<Property Name="appliName" Value="GLOBAL" Type="1"/>
+		<Property Name="scenario" Value="newWorkflow" Type="1"/>
+		<Property Name="name" Value="" Type="1"/>
+		<Property Name="id" Value="b88eed4c-77df-4d95-9a82-8877c64d8b5c" Type="1"/>
+		<Property Name="timeout" Value="600" Type="1"/>
+		<Property Name="task" Value="1" Type="1"/>
+		<Property Name="contextRoot" Value="" Type="1"/>
+		<Property Name="input" Value="" Type="1"/>
+		<Property Name="output" Value="" Type="1"/>
+	</Properties>
+	<Keys Name="scenario0">
+	</Keys>
+	<UpdatePackages>
+	</UpdatePackages>
+	<KeyNames Value="38c7020ee706f6f72c563baa199ae8b3" Type="32771"/>
+	<KeyContent Value="d4336fdfdbc98165df9b032e646cb90c" Type="32771"/>
+	<KeyProps Value="8649f236b9961e4271cf85043bb53d05" Type="32771"/>
+</doc>
