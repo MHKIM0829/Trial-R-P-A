@@ -100,8 +100,6 @@
 
 ![images](./img/image096.png)
 
-![images](./img/image097.png)
-
 
 
 
