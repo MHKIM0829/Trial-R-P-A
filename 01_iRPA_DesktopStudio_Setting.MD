@@ -5,7 +5,7 @@
 
 + # 설치파일
 
-        + INT_RPA_AGENT00P_5-80004525.MSI
+        + sap-intelligent-rpa-1.0.5.57_trial.msi
 
         + jdk-8u221-windows-x64.exe
 

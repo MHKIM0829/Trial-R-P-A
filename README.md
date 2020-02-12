@@ -205,3 +205,51 @@ URL, 자격 증명, 변수 및 기타 정보와 같은 정보는 "환경"의 일
 [SAP Best Practices - Content Library](https://support.sap.com/content/dam/SAAP/Sol_Pack/IRPA_S4HANA/IRPA_S4HANA_IPA10_07_Content_Library_EN_XX.htm)
 
 [iRPA Support](https://launchpad.support.sap.com/#/solutions/notesv2/?q=sap%252520intelligent%252520Robotic&sortBy=score&sortOrder=desc)
+
+
+SAP iRPA Workshop (2020-02-12)
+
+# RPA Overview
+
+![images](./img/20200212/image001.png)
+
+
+# SAP Intelligent RPA 지원봇 유형
+
+![images](./img/20200212/image002.png)
+
+# SAP Intelligent RPA Component
+
+![images](./img/20200212/image003.png)
+
+
+![images](./img/20200212/image004.png)
+
+
+# SAP Intelligent RPA BPM 통합
+
+![images](./img/20200212/image005.png)
+
+
+![images](./img/20200212/image006.png)
+
+
+![images](./img/20200212/image007.png)
+
+# Cloud Studio - 프로세스 설계
+
+![images](./img/20200212/image008.png)
+
+# SAP S/4HANA 용 Prebuilt 봇 컨텐츠
+
+![images](./img/20200212/image009.png)
+
+# SAP Intelligent RPA Content Store
+
+![images](./img/20200212/image010.png)
+
+
+# SAP Intelligent RPA 주요 차별성 요약
+
+![images](./img/20200212/image011.png)
+
