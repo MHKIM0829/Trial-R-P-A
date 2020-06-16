@@ -253,3 +253,6 @@ SAP iRPA Workshop (2020-02-12)
 
 ![images](./img/20200212/image011.png)
 
+
+
+![images](./img/20200212/image012.png)

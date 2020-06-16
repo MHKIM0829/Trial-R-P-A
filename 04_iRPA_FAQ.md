@@ -5,11 +5,6 @@
 
 >Desktop Studio 가 안 뜨거나 , 봇 실행이 안되는 경우 작업관리자에서 해당 서비스를 종료 후 재시작
 
-![images](./img/image092.png)
-
-![images](./img/image093.png)
-
-
 ## 2. Desktop Agent 재 로그인 하는 법
 
 ![images](./img/image045.png)

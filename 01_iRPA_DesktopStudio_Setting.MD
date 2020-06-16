@@ -7,13 +7,13 @@
 
         + sap-intelligent-rpa-1.0.5.57_trial.msi
 
-        + jdk-8u221-windows-x64.exe
+        + jdk-8u221-windows-x64.exe (기존 설치된 jdk가 있을 경우 건너뜀)
 
         + KDiff3-64bit-Setup_0.9.98.exe
 
         + NDP472-KB4054531Web.exe
 
-        + node-v10.15.3x64.msi
+        + node-v10.15.3x64.msi (기존 설치된 node가 있을 경우 건너뜀)
 
         + vs_remotetools.exe
 
